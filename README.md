@@ -26,6 +26,7 @@ Some terminology here:
 - *Clone* - Creates a copy of the remote repository on your hard drive which includes all uncommitted code branches.
 - *Branch* - You should never work directly on the main or root branch.  Instead create a personal branch for you to work in, that will make it easier when you submit it later for others to code review and then merge your branch back into the main branch.
 - *Pull Request* - When you are ready to submit your code back to the server, you can create a pull request.  It contains all of the current changes in your branch.  Others can code review your pull request and offer feedback or suggestions for improvements.
+- *Push* - Send your latest pull request changes to the server to share with your team.
 - *Code Review* - When a partner submits their pull request, you may be asked to code review it.  You should consider the code and offer feedback, cite bugs, or provide suggestions.  You can also track any issues your find in the Issues list.
 - *Issues* - Think of this as your work tracker.  This is a list that can include bugs as well as work assignments for your group members.
 
