@@ -17,11 +17,15 @@ Visual Code is designed to be used as an IDE for many different coding languages
 #### [Steps for Configuring Visual Code for Java](https://code.visualstudio.com/docs/java/java-tutorial)
 Note that the MOST important step here is installing Java.  If you already have it, you can skip that step, but you'll still need to do the configuration.  I recommend [Oracle Java SE 14 SDK](https://www.oracle.com/java/technologies/javase-downloads.html).
 
+## 4. General introduction to Github for Student Developers
+Watch this video for learning about using Github if you are unfamiliar with the Git source repository model.
+#### [Github for Student Developers](https://youtu.be/GcirekOlUdM)
+
 ## 4. Working with Github from Visual Code
 You're now ready to learn how to "clone" a repository, "fork" your code, and submit edits to the repo, all from within Visual Code.
 #### [Working with Github](https://code.visualstudio.com/docs/editor/github)
 Some terminology here:
-- *Repostiory* - This is the location in Github where your source code project is stored.  Also, known as "Cloud" or "Remote" repository.
+- *Repository* - This is the location in Github where your source code project is stored.  Also, known as "Cloud" or "Remote" repository.
 - *Local Repository* - This is your copy of the repository that you have stored on your local hard drive after you "clone" it.
 - *Clone* - Creates a copy of the remote repository on your hard drive which includes all uncommitted code branches.
 - *Branch* - You should never work directly on the main or root branch.  Instead create a personal branch for you to work in, that will make it easier when you submit it later for others to code review and then merge your branch back into the main branch.
