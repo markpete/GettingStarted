@@ -21,7 +21,7 @@ Note that the MOST important step here is installing Java.  If you already have 
 Watch this video for learning about using Github if you are unfamiliar with the Git source repository model.
 #### [Github for Student Developers](https://youtu.be/GcirekOlUdM)
 
-## 4. Working with Github from Visual Code
+## 5. Working with Github from Visual Code
 You're now ready to learn how to "clone" a repository, "fork" your code, and submit edits to the repo, all from within Visual Code.
 #### [Working with Github](https://code.visualstudio.com/docs/editor/github)
 Some terminology here:
@@ -34,6 +34,6 @@ Some terminology here:
 - *Code Review* - When a partner submits their pull request, you may be asked to code review it.  You should consider the code and offer feedback, cite bugs, or provide suggestions.  You can also track any issues your find in the Issues list.
 - *Issues* - Think of this as your work tracker.  This is a list that can include bugs as well as work assignments for your group members.
 
-## 5. Get to know the Visual Code Documentation Site
+## 6. Get to know the Visual Code Documentation Site
 There are many other capabilities in Visual Code that you'll want to learn about over time.  In addition the VS Code team issues updates with new features almost monthly.  Not to worry, your copy of Visual Studio Code will allow you to automatically update as those changes come out.
 #### Optional:  [Read more about using Visual Studio Code](https://code.visualstudio.com/docs)
