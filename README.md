@@ -34,6 +34,9 @@ Some terminology here:
 - *Code Review* - When a partner submits their pull request, you may be asked to code review it.  You should consider the code and offer feedback, cite bugs, or provide suggestions.  You can also track any issues your find in the Issues list.
 - *Issues* - Think of this as your work tracker.  This is a list that can include bugs as well as work assignments for your group members.
 
+Still need to learn more?  Here is a really good multi-part series of videos that goes into all of the concepts when working with a Git repository.
+#### [Git and Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
 ## 6. Get to know the Visual Code Documentation Site
 There are many other capabilities in Visual Code that you'll want to learn about over time.  In addition the VS Code team issues updates with new features almost monthly.  Not to worry, your copy of Visual Studio Code will allow you to automatically update as those changes come out.
 #### Optional:  [Read more about using Visual Studio Code](https://code.visualstudio.com/docs)
