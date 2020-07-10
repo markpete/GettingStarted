@@ -21,9 +21,9 @@ Note that the MOST important step here is installing Java.  If you already have 
 Watch this video for learning about using Github if you are unfamiliar with the Git source repository model.
 #### [Github for Student Developers](https://youtu.be/GcirekOlUdM)
 
-## 5. Working with Github from Visual Code
-You're now ready to learn how to "clone" a repository, "fork" your code, and submit edits to the repo, all from within Visual Code.
-#### [Working with Github](https://code.visualstudio.com/docs/editor/github)
+Still need to learn more?  Here is a really good multi-part series of videos that goes into all of the concepts when working with a Git repository.
+#### [Git and Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
 Some terminology here:
 - *Repository* - This is the location in Github where your source code project is stored.  Also, known as "Cloud" or "Remote" repository.
 - *Local Repository* - This is your copy of the repository that you have stored on your local hard drive after you "clone" it.
@@ -34,8 +34,11 @@ Some terminology here:
 - *Code Review* - When a partner submits their pull request, you may be asked to code review it.  You should consider the code and offer feedback, cite bugs, or provide suggestions.  You can also track any issues your find in the Issues list.
 - *Issues* - Think of this as your work tracker.  This is a list that can include bugs as well as work assignments for your group members.
 
-Still need to learn more?  Here is a really good multi-part series of videos that goes into all of the concepts when working with a Git repository.
-#### [Git and Github for Poets](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6ZF9C0YMKuns9sLDzK6zoiV)
+
+
+## 5. Working with Github from Visual Code
+You're now ready to learn how to "clone" a repository, "fork" your code, and submit edits to the repo, all from within Visual Code.
+#### [Working with Github from Visual Code](https://code.visualstudio.com/docs/editor/github)
 
 ## 6. Get to know the Visual Code Documentation Site
 There are many other capabilities in Visual Code that you'll want to learn about over time.  In addition the VS Code team issues updates with new features almost monthly.  Not to worry, your copy of Visual Studio Code will allow you to automatically update as those changes come out.
